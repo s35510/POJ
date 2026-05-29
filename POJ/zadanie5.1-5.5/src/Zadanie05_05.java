@@ -15,7 +15,7 @@ public class Zadanie05_05 {
         customer1.setDiscount(20);
         invoice1.setAmount(300.00);
 
-        System.out.println("Price after discount: :");
+        System.out.println("Invoice after setting new amount and new discount: ");
         printInvoice(invoice1);
     }
 
